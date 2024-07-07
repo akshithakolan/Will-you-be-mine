@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #F8C8DC;
+    background-image: url('https://media4.giphy.com/media/ozqwseUuOH0dX02aJX/giphy.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+.header_text {
+    font-family: 'Nunito';
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(227, 204, 101);
+    text-align: left; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
